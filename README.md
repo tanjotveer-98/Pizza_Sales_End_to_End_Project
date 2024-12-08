@@ -5,7 +5,4 @@
 
 ## Importing data from Excel to SQL Server and perform analysis.
 * SQL Queries File- https://github.com/tanjotveer-98/Pizza_Sales_Performance_Project/blob/43301de64f4f33b102574cb3da40f23a5926647b/SQL_Sales_Queries.sql </br>
-* SQL Report documentation-- https://github.com/tanjotveer-98/Pizza_Sales_Performance_Project/blob/43301de64f4f33b102574cb3da40f23a5926647b/SQL_Sales_Report.pdf </br>
-  Snapshot-
-  <img src="https://github.com/user-attachments/assets/ace2605a-b17c-4236-84ca-f4a8d33fcfa8" height=400 width=400>
-
+* SQL Report documentation-- https://github.com/tanjotveer-98/Pizza_Sales_Performance_Project/blob/43301de64f4f33b102574cb3da40f23a5926647b/SQL_Sales_Report.pdf 
