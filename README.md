@@ -8,12 +8,11 @@
 * SQL Report documentation-- https://github.com/tanjotveer-98/Pizza_Sales_Performance_Project/blob/43301de64f4f33b102574cb3da40f23a5926647b/SQL_Sales_Report.pdf
 
 ## Final Dashboard.
-* Home Page-</br>
+* <b>Home Page-</b></br>
 <img src= "https://github.com/user-attachments/assets/d88d9648-e135-46f2-8ab5-5a8c8466952c">
-<br/>
-<br/>
+<br/><br/>
 
-*Best/Wors seller Page-<br/>
+*<b>Best/Worst seller Page-</b><br/><br/>
 <img src= "https://github.com/user-attachments/assets/21b47ee9-37a5-402b-9528-acd1b51b6325">
 
 
