@@ -4,10 +4,12 @@
 * <b>Dataset-</b> https://github.com/tanjotveer-98/Pizza_Sales_Performance_Project/blob/d880b9624a93fae1fd881eb84e21340c3b1f6a86/pizza_sales.csv
 
 ## Importing data from Excel to SQL Server and perform analysis.
+* Used data aggregation using group by, order bu, sum, average, CTEs, window functions to perform data analysis.</br>
 * <b>SQL Queries File-</b> https://github.com/tanjotveer-98/Pizza_Sales_Performance_Project/blob/43301de64f4f33b102574cb3da40f23a5926647b/SQL_Sales_Queries.sql </br>
 * <b>SQL Report </b>-- https://github.com/tanjotveer-98/Pizza_Sales_Performance_Project/blob/43301de64f4f33b102574cb3da40f23a5926647b/SQL_Sales_Report.pdf
 
 ## Power BI Final Reports.
+* Used DAX, Power Query, Visualization tools in Power BI to generate an interactive report.</br>
 * <b>Home Page-</b></br>
 <img src= "https://github.com/user-attachments/assets/d88d9648-e135-46f2-8ab5-5a8c8466952c">
 <br/><br/>
